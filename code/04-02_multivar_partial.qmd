@@ -109,7 +109,7 @@ weather
 ```
 test GitHub
 ```{r}
-testingGitHub <- c(1,2)
+testingGitHub <- c(1,2,3,4,5)
 testingGitHub
 ```
 
